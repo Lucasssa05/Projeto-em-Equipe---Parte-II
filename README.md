@@ -48,7 +48,7 @@ A full-stack application built with **Angular** (frontend) and **Spring Boot** (
 ### 📁 Project Structure
 
 ```
-revisao-carro/
+Projeto-em-Equipe---Parte-II/
 ├── backend/ # Spring Boot backend
 │ ├── src/
 │ └── Dockerfile
@@ -141,8 +141,8 @@ volumes:
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/revisao-carro.git
-cd revisao-carro
+git clone https://github.com/Lucasssa05/Projeto-em-Equipe---Parte-II.git
+cd Projeto-em-Equipe---Parte-II
 ```
 
 Build and run with Docker Compose:
