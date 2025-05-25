@@ -1,5 +1,7 @@
 # 🚗 Revisão Carro
 
+[![Watch the video](https://img.youtube.com/vi/ZPE0MHys1SI/maxresdefault.jpg)](https://youtu.be/ZPE0MHys1SI)
+
 A full-stack application built with **Angular** (frontend) and **Spring Boot** (backend) to manage vehicle maintenance and fueling records.
 
 ---
