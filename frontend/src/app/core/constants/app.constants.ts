@@ -1,5 +1,6 @@
 export class AppConstants {
-  static readonly BASE_URL = 'http://localhost:8080';
+  static readonly BASE_URL = 'https://backend-revisao-qsg1.onrender.com';  
+  //static readonly BASE_URL = 'http://localhost:8080';
 
   static readonly MARCA_URL = `${AppConstants.BASE_URL}/marca`;
   static readonly MODELO_URL = `${AppConstants.BASE_URL}/modelo`;
