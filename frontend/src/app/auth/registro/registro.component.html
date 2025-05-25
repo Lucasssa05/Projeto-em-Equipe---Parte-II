@@ -49,17 +49,6 @@
     </div>
   </div>
 
-  <div>
-    <label for="roles" class="block text-sm font-medium text-gray-700">Roles</label>
-    <input
-      id="roles"
-      type="text"
-      formControlName="roles"
-      class="mt-1 block w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 transition duration-300"
-      placeholder="Digite sua role"
-      [class.border-red-500]="registerForm.get('roles')?.invalid && registerForm.get('roles')?.touched"
-    >
-  </div>
 
   <div *ngIf="error" class="text-red-500 text-sm text-center animate-shake">
     {{ error }}

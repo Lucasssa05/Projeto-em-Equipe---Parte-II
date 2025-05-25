@@ -24,7 +24,7 @@ registerForm: FormGroup;
       nome: ['', [Validators.required, Validators.minLength(3)]],
       cpf: ['', [Validators.required, Validators.pattern(/^\d{11}$/)]],
       senha: ['', [Validators.required, Validators.minLength(6)]],
-      roles: ['', [Validators.required]]
+      roles: ['ADMIN']
     });
   }
 
